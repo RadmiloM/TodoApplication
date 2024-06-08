@@ -12,4 +12,6 @@
 
 .submit-button {
     margin-left: 5px;
+    padding: 4px;
+    background-color: deepskyblue;
 }
