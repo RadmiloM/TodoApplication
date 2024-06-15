@@ -5,5 +5,6 @@ const userItem = document.querySelector('.user-item');
 
 function printInputValue() {
     const textValue = textElement.value;
+    localStorage.setItem('item', textElement.value);
     userItem.innerHTML = textValue;
 }
