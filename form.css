@@ -14,3 +14,7 @@
     padding: 4px;
     background-color: mediumpurple;
 }
+
+.hover-color:hover {
+    background-color: gold;
+}
