@@ -18,3 +18,15 @@
 .hover-color:hover {
     background-color: gold;
 }
+
+.search-item {
+    display: inline-block;
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.search-button {
+    margin-left: 5px;
+    background-color: pink;
+    padding: 4px;
+}
