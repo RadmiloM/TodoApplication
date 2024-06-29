@@ -30,3 +30,16 @@
     background-color: pink;
     padding: 4px;
 }
+
+.date {
+    margin-left: 5px;
+}
+.dates {
+    margin-top: 20px;
+}
+
+.date-input {
+    display: block;
+    margin-top: 10px;
+    margin-left: 5px;
+}
